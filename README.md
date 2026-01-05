@@ -12,11 +12,11 @@ For any questions, please do not hesitate to contact us.
 
 Correspondence should be addressed to ****Wen Luo,**** **Jingting Shu**, **Bolin Cai** and **Qinghua Nie**. 
 
-**Wen Luo** (*luowen729@scau.edu*): College of Animal Science, South China Agricultural University, Guangzhou, 510642, China.
+**Wen Luo** (*luowen729@scau.edu.cn*): College of Animal Science, South China Agricultural University, Guangzhou, 510642, China.
 
 **Jingting Shu** (*shujingting@163.com*): Poultry Institute, Chinese Academy of Agricultural Sciences, Yangzhou, 225125, China.
 
-**Bolin Cai** (*bolincai@scau.edu.cn*): College of Animal Science, South China Agricultural University, Guangzhou 510642, China
+**Bolin Cai** (*bolincai@scau.edu.cn*): College of Animal Science, South China Agricultural University, Guangzhou 510642, China.
 
 **Qinghua Nie** (*nqinghua@scau.edu.cn*): College of Animal Science, South China Agricultural University, Guangzhou, 510642, China.
 

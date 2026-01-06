@@ -4,7 +4,7 @@ import argparse
 import pandas as pd
 import os
 
-
+ 
 def get_args():
     parser = argparse.ArgumentParser(description='Parse and classify structural variants')
     parser.add_argument('-i', '--input', required=True, help='Input VCF file path')

@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains analytical and visual scripts for our chicken Pan-3D Genome projects. It should be noted that these code was designed for our specific datasets in our work.
+This repository contains analytical and visual scripts for our chicken Pan-3D Genome projects. It should be noted that these code was designed for our specific datasets in our work. 
 
 The full datasets generated and analysed during the current study are available from the corresponding author upon reasonable request. 
 
@@ -23,3 +23,5 @@ Correspondence should be addressed to ****Wen Luo,**** **Jingting Shu**, **Bolin
 ## Cite
 
 This work is currently under review at a peer-reviewed journal. We appreciate your interest and will update this repository upon acceptance.
+
+All software and packages used in the study are publicly available from the Internet as described in the Experimental and Method Section.

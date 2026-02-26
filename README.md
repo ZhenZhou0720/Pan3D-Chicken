@@ -22,6 +22,6 @@ Correspondence should be addressed to ****Wen Luo,**** **Jingting Shu**, **Bolin
 
 ## Cite
 
-This work has been published in **Advanced Science** journal.
+This work is online in the **Advanced Science** journal now.
 
 Zhou Z, Cai D, Zhao C, Zhang S, Li J, Zhang Z, Kong S, Yang X, Zhou X, Bordbar F, Chen F, Xu Y, Zhang Z, Gu L, Li Z, Zhang X, Luo W, Shu J, Cai B, Nie Q. *Pan-3D Genome Analysis Reveals the Roles of Structural Variation in Chicken Chromatin Architectures, Domestication and Production Traits.* Adv Sci (Weinh). 2026 Feb 15:e20068. doi: 10.1002/advs.202520068. PMID: 41691473.
